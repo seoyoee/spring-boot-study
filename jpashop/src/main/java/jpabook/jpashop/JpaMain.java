@@ -29,6 +29,8 @@ public class JpaMain {
 
             em.persist(orderItem);
 
+            orderItem.getItem();
+
             tx.commit();
         } catch (Exception e) {
             tx.rollback();
