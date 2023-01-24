@@ -1,2 +1,2 @@
-# spring-study
-Spring Study Repository
+# spring-boot-study
+Spring Boot Study Repository
